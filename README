@@ -1,1 +1,3 @@
 My humble collection of dotfiles and other config-related things
+
+The polybar config is based on Aditya Shakya's original one. I've customized it to my liking (and system) and added a few modules.
